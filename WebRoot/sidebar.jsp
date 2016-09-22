@@ -1,5 +1,4 @@
 <%@ page language="java" import="java.util.*" pageEncoding="utf-8"%>
-
 <div class="list-group">
 	<div class="thumbnail" style="">
 	    <img src="img/pupil1.jpg" alt="...">
